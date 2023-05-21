@@ -22,5 +22,7 @@
     "url": "https://github.com/nostr-components/modal/issues"
   },
   "homepage": "https://github.com/nostr-components/modal#readme",
-  "dependencies": {}
+  "dependencies": {
+    "htm": "^3.1.1"
+  }
 }
