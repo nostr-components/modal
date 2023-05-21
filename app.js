@@ -1,4 +1,4 @@
 import { html, render } from './js/standalone.module.js'
 import Modal from './index.js'
 
-render(html`<${Modal} content = "nostr" />`, document.body)
+render(html`<${Modal} content="nostr" />`, document.body)

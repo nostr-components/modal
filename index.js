@@ -1,4 +1,4 @@
-import { html, Component } from './js/preact.js'
+import { html, Component } from './js/standalone.module.js'
 
 class Modal extends Component {
   state = { isOpen: false }
