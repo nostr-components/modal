@@ -17,8 +17,8 @@
 ---
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nostr-components/modal/blob/gh-pages/LICENSE)
-[![npm](https://img.shields.io/npm/v/nostr-modal-component)](https://npmjs.com/package/nostr-modal-component)
-[![npm](https://img.shields.io/npm/dw/nostr-modal-component.svg)](https://npmjs.com/package/nostr-modal-component)
+[![npm](https://img.shields.io/npm/v/nostr-components-modal)](https://npmjs.com/package/nostr-components-modal)
+[![npm](https://img.shields.io/npm/dw/nostr-components-modal.svg)](https://npmjs.com/package/nostr-components-modal)
 [![Github Stars](https://img.shields.io/github/stars/nostr-components/modal.svg)](https://github.com/nostr-components/modal/)
 
 Certainly, here's an example of a beautiful `README.md` for your Modal component:
