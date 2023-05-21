@@ -11,7 +11,7 @@ class Modal extends Component {
     this.setState({ isOpen: false })
   }
 
-  render({ content }) {
+  render({ content, label }) {
     const { isOpen } = this.state
 
     const modalStyle = {
@@ -45,7 +45,7 @@ class Modal extends Component {
 
     return html`
             <div>
-              <button onClick=${this.openModal}>Open Modal</button>
+              <button onClick=${this.openModal}>${label}</button>
               <div style=${modalStyle}>
                 <div style=${modalContentStyle}>
                   <span style=${closeButtonStyle} onClick=${this.closeModal}
