@@ -1,6 +1,6 @@
 {
   "name": "nostr-components-modal",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "modal",
   "main": "index.js",
   "scripts": {
